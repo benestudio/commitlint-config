@@ -1,0 +1,30 @@
+{
+  "name": "@benestudioco/commitlint-config",
+  "version": "1.0.0",
+  "description": "Shareable commitlint config enforcing Bene Studio commits",
+  "files": [
+    "index.js"
+  ],
+  "scripts": {
+    "clean": "exit 0",
+    "deps": "dep-check",
+    "pkg": "pkg-check",
+    "start": "exit 0",
+    "test": "exit 0"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/benestudio/commitlint-config.git"
+  },
+  "keywords": [
+    "commitlint",
+    "commitlint-config",
+    "benestudio"
+  ],
+  "author": "Henrique Carvalho da Cruz <henrique.cruz@benestudio.co>",
+  "license": "MIT",
+  "homepage": "https://github.com/benestudio/commitlint-config.git"
+}
